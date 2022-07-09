@@ -1,0 +1,16 @@
+frmLogIn = 50, 50, 945, 501, , 25, 25, 920, 476, C
+frmStudentRegistration = 75, 75, 970, 526, , 50, 50, 945, 501, C
+frmAspirantRegistration = 175, 175, 1070, 626, , 100, 100, 995, 551, C
+frmCastVote = 50, 50, 945, 501, , 125, 125, 1020, 576, C
+frmMain = 100, 100, 995, 551, , 50, 50, 945, 501, C
+PublicDeclarationModule = 0, 0, 895, 451, C
+frmPresidentialReportForm = 0, 0, 895, 451, , 75, 75, 970, 526, C
+frmDepPresidentElection = 175, 175, 1070, 626, Z, 200, 200, 1095, 651, C
+frmSecGeneralElection = 125, 125, 1020, 576, , 50, 50, 945, 501, C
+denPresidency = 50, 50, 945, 501, C, -2, -2, 1109, 687, C
+rptPresidency = 0, 0, 0, 0, C, -299, 19, 1067, 787, C
+denDepPresident = 0, 0, 0, 0, C, 1, 0, 384, 640, C
+rptDepPresident = 150, 150, 1045, 601, C, -254, 27, 1112, 795, C
+denSecGeneral = 100, 100, 995, 551, C, 3, 2, 1114, 691, C
+rptSecGeneral = 0, 0, 0, 0, C, 341, 6, 946, 391, C
+frmSplash = 16, 146, 1003, 538, C, 125, 125, 1020, 576, C
